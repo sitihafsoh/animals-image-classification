@@ -13,3 +13,21 @@ Proyek ini bertujuan untuk membangun dan mengevaluasi model machine learning yan
 - Pariwisata: Mengembangkan aplikasi yang dapat membantu wisatawan mengidentifikasi satwa yang mereka temui di alam liar.
   
 Untuk mencapai tujuan ini, akan dilakukan eksplorasi berbagai arsitektur jaringan saraf konvolusional (CNN) dan teknik augmentasi data. Selain itu, juga akan dilakukan analisis kinerja model dengan metrik akurasi.
+
+# **Dataset**
+Dataset yang digunakan dalam proyek ini adalah Animals-10, yang dapat diunduh dari Kaggle: https://www.kaggle.com/datasets/alessiocorrado99/animals10. Dataset ini berisi 10 kelas hewan darat, termasuk anjing, kucing, kuda, dan lain-lain.
+
+| Kelas Hewan | Jumlah Gambar |
+|---|---|
+| Kupu-kupu (farfalla) | 2112 |
+| Kucing (gatto) | 1668 |
+| Ayam (gallina) | 3098 |
+| Sapi (mucca) | 1866 |
+| Anjing (cane) | 4863 |
+| Gajah (elefante) | 1446 |
+| Kuda (cavallo) | 2623 |
+| Domba (pecora) | 1820 |
+| Laba-laba (ragno) | 4821 |
+| Tupai (scoiattolo) | 1862 |
+
+Total dataset: 26179 gambar
