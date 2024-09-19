@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Proyek Klasifikasi Gambar: 10 Hewan Darat</h1>
+# **Proyek Klasifikasi Gambar: 10 Hewan Darat**
 <br><br>
 
 ![animals5](https://github.com/user-attachments/assets/0ec3b309-6491-4f70-8eb0-99a763a76a0e)
