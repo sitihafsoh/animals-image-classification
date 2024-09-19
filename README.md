@@ -19,15 +19,15 @@ Dataset yang digunakan dalam proyek ini adalah Animals-10, yang dapat diunduh da
 
 | Kelas Hewan | Jumlah Gambar |
 |---|---|
-| Kupu-kupu (farfalla) | 2112 |
-| Kucing (gatto) | 1668 |
-| Ayam (gallina) | 3098 |
-| Sapi (mucca) | 1866 |
-| Anjing (cane) | 4863 |
-| Gajah (elefante) | 1446 |
-| Kuda (cavallo) | 2623 |
-| Domba (pecora) | 1820 |
-| Laba-laba (ragno) | 4821 |
-| Tupai (scoiattolo) | 1862 |
+| Butterfly (farfalla) | 2112 |
+| Cat (gatto) | 1668 |
+| Chicken (gallina) | 3098 |
+| Cow (mucca) | 1866 |
+| Dog (cane) | 4863 |
+| Elephant (elefante) | 1446 |
+| Horse (cavallo) | 2623 |
+| Sheep (pecora) | 1820 |
+| Spider (ragno) | 4821 |
+| Squirrel (scoiattolo) | 1862 |
 
 Total dataset: 26179 gambar
