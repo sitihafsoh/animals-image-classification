@@ -1,6 +1,7 @@
 # <center><strong>Proyek Klasifikasi Gambar: 10 Hewan Darat</strong></center>
 
-![animals2](https://github.com/user-attachments/assets/1977ab4d-c1cd-46fb-81bc-7b1af7d8b09a)
+![animals2](https://github.com/user-attachments/assets/705315cc-6605-41c2-81d8-16a7e858282d)
+
 
 # **Latar Belakang**
 
