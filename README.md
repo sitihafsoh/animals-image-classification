@@ -1,5 +1,11 @@
 # <center><strong>Proyek Klasifikasi Gambar: 10 Hewan Darat</strong></center>
 
+![Uploading animals2.gif…]()
+![Uploading animals2.gif…]()
+![Uploading animals2.gif…]()
+![Uploading animals2.gif…]()
+
+
 # **Latar Belakang**
 
 Pengenalan gambar telah mengalami kemajuan pesat dalam beberapa tahun terakhir, didorong oleh perkembangan deep learning. Kemampuan untuk mengidentifikasi objek dalam gambar secara otomatis memiliki banyak aplikasi, salah satunya adalah dalam bidang konservasi. Dataset Animals10 dari Kaggle berisi gambar dari 10 spesies hewan darat yang berbeda, menyediakan sumber daya yang berharga untuk mengembangkan model klasifikasi gambar yang kuat.
